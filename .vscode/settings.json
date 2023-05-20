@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5c496a48-c720-4648-ac0d-68a7313bbcb1/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/anisat-blog-app",
+    "appService.deploySubpath": "."
+}
