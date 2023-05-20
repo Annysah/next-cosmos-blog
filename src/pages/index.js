@@ -32,10 +32,10 @@ export default function Home({ CosmosData }) {
                   </a>
                 </p>
 
-                <h3 class="font-bold text-xl mt-4"> Intro </h3>
-                <p class="font-light"> {content}</p>
+                <h3 className="font-bold text-xl mt-4"> Intro </h3>
+                <p className="font-light"> {content}</p>
 
-                <button class="bg-green-600 text-white font-semibold py-2 px-5 text-sm mt-6 inline-flex items-center group">
+                <button className="bg-green-600 text-white font-semibold py-2 px-5 text-sm mt-6 inline-flex items-center group">
                   <p className="pr-2"> READ MORE </p>
                   <i className="fa-solid fa-chevron-right"></i>
                 </button>
